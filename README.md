@@ -46,4 +46,4 @@ Coming soon!
 
 ## Acknowledgement
 
-[ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main/segmentation), [MMSegmentation](https://github.com/open-mmlab/mmsegmentation), [EVA](https://github.com/baaivision/EVA)
+The code is largely based on [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main/segmentation).
