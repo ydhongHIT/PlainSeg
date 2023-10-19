@@ -8,7 +8,7 @@ Don't forget to convert the pre-trained weights of BEiT and BEiTv2 with beit2mms
 
 ## Training
 
-Please use the following commands. We fix random seed to reduce randomness.
+Please use the following commands. We fix random seeds to reduce randomness.
 
 To train base models on ADE20K with 4gpus:
 
