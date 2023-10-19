@@ -4,6 +4,8 @@
 
 Please follow [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main/segmentation) to prepare the environment and datasets.
 
+Don't forget to convert the pre-trained weights of BEiT and BEiTv2 with beit2mmseg.py in tools.
+
 ## Training
 
 To train base models on ADE20K with 4gpus:
