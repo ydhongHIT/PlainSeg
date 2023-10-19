@@ -27,7 +27,7 @@ sh ./tools/dist_train.sh configs/pascal/mask2former_beit_base_parallel_separate_
 To train large models on Pascal Context with 4gpus:
 
 ```
-sh ./tools/dist_train.sh configs/pascal/mask2former_beit_large_parallel_separate_slim_480_20k_pascal_ss.py 4 --seed 0
+sh ./tools/dist_train.sh configs/pascal/mask2former_beit_large_parallel_separate_slim_480_20k_pascal_ss.py 4 --seed 10
 ```
 
 To train large models on COCO-Stuff 164K with 8gpus:
@@ -35,6 +35,10 @@ To train large models on COCO-Stuff 164K with 8gpus:
 ```
 sh ./tools/dist_train.sh configs/coco164k/mask2former_beit_large_parallel_separate_slim_640_80k_coco164_ss.py 8 --seed 0
 ```
+
+## Pre-trained Models
+
+Coming soon!
 
 ## Acknowledgement
 
