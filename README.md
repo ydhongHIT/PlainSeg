@@ -46,4 +46,4 @@ Coming soon!
 
 ## Acknowledgement
 
-The code is largely based on [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main/segmentation).
+The code is largely based on [ViT-Adapter](https://github.com/czczup/ViT-Adapter/tree/main/segmentation) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation).
