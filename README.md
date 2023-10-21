@@ -1,4 +1,4 @@
-# Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers
+# [Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers](https://arxiv.org/abs/2310.12755)
 
 ## Install and Usage
 
