@@ -1,5 +1,7 @@
 # Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/minimalist-and-high-performance-semantic/semantic-segmentation-on-pascal-context)](https://paperswithcode.com/sota/semantic-segmentation-on-pascal-context?p=minimalist-and-high-performance-semantic)
+
 The official implementation of [our paper](https://arxiv.org/abs/2310.12755).
 
 ## Install and Usage
